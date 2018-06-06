@@ -1,5 +1,3 @@
-
-
 function mytest(){
 console.log('hello world');
 }
